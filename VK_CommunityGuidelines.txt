@@ -1,0 +1,95 @@
+Prohibited and questionable content in communities
+There are several restrictions on content that can be posted in communities. First of all, this concerns content whose placement is prohibited not only by the VK Terms of Service but by the legislation of the Russian Federation.
+
+This includes many different types of content: from offering paid intimate services to the remote sale of tobacco.
+
+If you’re not sure whether the content you’re planning to add is legal, we advise you to refrain from posting it.
+
+Follow these links for more information about types of prohibited content:
+Malicious links and software
+Blocked due to a copyright complaint
+Blocked by a decision of a court or Roskomnadzor
+Unverified charity fundraising
+
+Malicious links and software
+
+We do our best to make VK as secure as possible. However, for the most part, users are responsible for protecting their personal data.
+
+One way that’s commonly used to steal data is phishing. This is data theft through a fake login page on a website that copies the VK interface and has a similar URL.
+
+Make sure the browser address bar says "vk.com" or "m.vk.com" on the page where you enter your data. Some malicious websites can steal your login credentials even if you simply follow a link. We try to block these link redirects as quickly as possible.
+
+Some communities might distribute malware. They often ask for personal data, claiming they’ll give you access to features that VK doesn’t actually have. These include the ability to view other people’s private photos or your profile’s visitors, to download music or to get limitless gifts or free votes. Creating such communities is prohibited on VK. If you come across one, report it and we’ll look into it right away.
+
+Community blocked due to a copyright complaint
+
+This community has been blocked on request of copyright holders.
+
+1. Communities that sell the products of well-known brands without the copyright holder’s permission might be blocked for this reason.
+
+Many products, services, company names or just words are registered as trademarks. These are not only world-famous brands like Nike or Casio but names like “Xerox” or “Whoosh”.
+
+A trademark owner has the exclusive right to use it to sell their products or services. That’s why if we receive a trademark owner’s official complaint, we can’t ignore it.
+
+Remember that selling under someone else’s brand without permission is always a risk, even if no one has noticed it yet.
+
+Important!
+We carefully check the documents provided by copyright holders, but anyone can make a mistake.
+
+If you have permission to use a trademark, you can always contact its owner directly and correct the misunderstanding. After the claim has been withdrawn, your community will be unblocked.
+
+All other cases can be reviewed by Support.
+
+
+2. Community managers who pretend to be an organization’s official representative might also be blocked for this reason.
+
+Users need information that’s relevant and true. Therefore, if the real organization’s representatives make an official complaint and provide the necessary documents, the fake “representative” can be blocked.
+
+Blocked by decision of a court or Roskomnadzor
+VK operates under Russian jurisdiction, and we do not have the right to ignore official court or Roskomnadzor orders.
+
+If Roskomnadzor considers certain content to be prohibited, information about the community that posted it goes into a special register and we receive an order to block the community. We must comply with the order within the time established by law.
+
+These communities are blocked permanently. The only way out of the situation is to make an appeal to Roskomnadzor to find a compromise. However, we cannot act as an intermediary in communication with government agencies.
+
+You can contact Roskomnadzor representatives by email: zapret-info@rkn.gov.ru
+
+The email must include the community’s numeric id and short name.
+
+Important!
+After a community has been blocked, its content becomes inaccessible to users, and, accordingly, the community itself is excluded from the aforementioned register. However, this doesn’t mean that the community can be unblocked and doesn’t negate the fact that it contains prohibited content.
+
+The community can only be unblocked if Roskomnadzor contacts VK officially and withdraws the order. We have no legal right to consider any other documents, including the agency’s responses to your email.
+
+
+How do I raise funds for charity?
+Communities in which charitable donations are made to the accounts of individuals must meet the requirements described below. Otherwise, the community can be blocked.
+
+Documents to prepare
+Identification documents of the people in need and their parents, if the person in question is underage (passport photos, birth certificates).
+Identification documents of the person responsible for the fundraiser, if these funds are being collected to help animals on behalf of an individual.
+Medical documents confirming a diagnosis and prescriptions (certificates, clinical reports).
+Veterinary documents, if funds are being collected for the treatment of an animal.
+Financial documents confirming the amount being collected (invoice for the amount to be collected).
+Other documents confirming the fundraising objectives, if required.
+Important! Identification documents don’t have to be posted in the public domain. However, you should always be prepared to provide a photo of them to VK Support. We just need the part with your name and photo (you can cover up the series and number).
+
+
+Rules for keeping financial records
+To raise funds, you need to use a separate bank account in which there is no personal financial activity. This will help ensure the transparency of financial records.
+Receipt of funds must be recorded in the community and confirmed by screenshots with electronic payment details and bank statements.
+The funds must be spent strictly in accordance with the purpose of their collection.
+All funds spent must be recorded in the community and confirmed by financial documents (receipts, invoices, delivery slips, etc.).
+
+Make sure all documents are up to date and promptly post new ones. The document confirming the amount to be collected (invoice) must not be over 6 months old.
+
+Charity communities must be open for the entire period of their activity.
+
+Don’t delete important documents and reports. We also recommend applying watermarks (translucent text with the community’s URL) on them. This will help protect the documents from being used for malicious purposes.
+
+Your community must comply with the VK Terms of Service. Take a look at our article for advice on growing your community.
+
+Remember that honest and comprehensive information about your fundraising will not only assist in finding financial support but will also bring community members together.
+
+Important!
+You can only post about fundraising to your profile if a community has been created that meets the aforementioned requirements.
